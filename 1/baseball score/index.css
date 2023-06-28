@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: #EEE;
+text-align: center;
+font-size: 40px;
+font-family: Verdana;
+font-weight: 700;
+line-height: 35.893px;
+
+
+}
+
+.butt{
+border-radius: 5px;
+border: 2px solid #9AABD8;
+color: #9AABD8;
+text-align: center;
+font-size: 33px;
+font-family: Cursed Timer ULiL;
+line-height: 27.812px;
+width: 45px;
+height: 45px;
+flex-shrink: 0;
+
+}
+.box{
+  border-radius: 5px;
+background: #080001;  
+ width: 155px;
+height: 120px;
+flex-shrink: 0;   
+
+
+}
+
+.score{
+color: #F94F6D;
+text-align: center;
+font-size: 90px;
+font-family: Cursed Timer ULiL;
+line-height: 126.666px;
+
+
+}
