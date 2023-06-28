@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/34/03/14/img-20190409-201544-largejpg.jpg?w=1200&h=-1&s=1");
+    background-image: url("station.jpg");
     background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
@@ -9,15 +9,12 @@ body {
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 90px;
-    color: whitesmoke;
 }
 
 h2 {
-    font-size: 100px;
+    font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
-    color: whitesmoke;
 }
 
 button {
